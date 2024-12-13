@@ -2,7 +2,7 @@
     "name": "Stat Tracker",
     "short_name": "Stat Tracker",
     "description": "Stat Tracker",
-    "start_url": "/",
+    "start_url": "/stattrackeroos",
     "scope": "/",
     "display": "standalone",
     "theme_color": "#F6FFFE"

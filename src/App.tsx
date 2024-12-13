@@ -12,11 +12,12 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <Index />
+      {/* <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Index />} />
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
     </TooltipProvider>
   </QueryClientProvider>
 );

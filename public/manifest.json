@@ -1,0 +1,10 @@
+{
+    "name": "Stat Tracker",
+    "short_name": "Stat Tracker",
+    "description": "Stat Tracker",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#F6FFFE"
+  }
+  

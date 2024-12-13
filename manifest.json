@@ -1,20 +1,10 @@
 {
-    "name": "Stat Tracker",
-    "short_name": "Stat Tracker",
-    "description": "Stat Tracker",
+    "name": "Alvirne Basketball Stats Tracker",
+    "short_name": "Alvirne Basketball Stats Tracker",
+    "description": "Alvirne Basketball Stats Tracker",
     "start_url": "/stattrackeroos",
     "scope": "/",
     "display": "standalone",
-    "theme_color": "#F6FFFE",
-    "icons": [
-        {
-          "src": "/img/48.png",
-          "sizes": "48x48"
-        },
-        {
-          "src": "/img/128.png",
-          "sizes": "72x72 96x96 128x128 256x256"
-        }
-      ]
+    "theme_color": "#F6FFFE"
   }
   
